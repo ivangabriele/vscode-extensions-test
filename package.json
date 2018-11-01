@@ -1,0 +1,20 @@
+{
+  "name": "vscode-extensions-test",
+  "version": "1.0.0",
+  "description": "> This repository is only intended to test a number of my VSCode extensions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivangabriele/vscode-extensions-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivangabriele/vscode-extensions-test/issues"
+  },
+  "homepage": "https://github.com/ivangabriele/vscode-extensions-test#readme"
+}
