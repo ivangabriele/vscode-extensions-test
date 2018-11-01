@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node ./src/index.js",
+    "preinstall": "sleep 30",
     "test": "mocha **/*.spec.js"
   },
   "repository": {
