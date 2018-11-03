@@ -6,5 +6,3 @@
 
 
 > This repository is only intended to test a number of my VSCode extensions.
-
-This is a test.
