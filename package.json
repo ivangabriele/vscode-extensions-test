@@ -18,11 +18,10 @@
     "url": "https://github.com/ivangabriele/vscode-extensions-test/issues"
   },
   "homepage": "https://github.com/ivangabriele/vscode-extensions-test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
   "devDependencies": {
     "mocha": "^5.2.0"
-  },
-  "dependencies": {
-    "express": "^4.16.4",
-    "say": "^0.15.0"
   }
 }
